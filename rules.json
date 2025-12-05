@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Confidentiality Clause",
+    "description": "The agreement must contain a confidentiality obligation protecting sensitive information."
+  },
+  {
+    "name": "Termination Notice",
+    "description": "Contract must specify the required notice period for termination."
+  },
+  {
+    "name": "Governing Law",
+    "description": "Contract should clearly specify the governing jurisdiction."
+  },
+  {
+    "name": "Liability Limitation",
+    "description": "Should define limits of liability for both parties."
+  },
+  {
+    "name": "Indemnification",
+    "description": "Must include indemnification terms."
+  },
+  {
+    "name": "Payment Terms",
+    "description": "Contract must state payment timeline and method."
+  },
+  {
+    "name": "Intellectual Property",
+    "description": "Contract should clarify ownership of intellectual property."
+  },
+  {
+    "name": "Non-Compete Clause",
+    "description": "If applicable, contract should include non-compete restrictions."
+  },
+  {
+    "name": "Dispute Resolution",
+    "description": "Contract must specify arbitration/mediation procedures."
+  },
+  {
+    "name": "Force Majeure",
+    "description": "Must include a force majeure clause."
+  },
+  {
+    "name": "Warranties",
+    "description": "Defines warranties offered by each party."
+  },
+  {
+    "name": "Assignment Clause",
+    "description": "Contract must state whether assignment to third parties is allowed."
+  },
+  {
+    "name": "Data Protection",
+    "description": "Must adhere to data privacy requirements."
+  },
+  {
+    "name": "Audit Rights",
+    "description": "Should define audit rights and obligations."
+  },
+  {
+    "name": "Service Levels",
+    "description": "Must specify minimum service-level expectations."
+  }
+]
