@@ -19,7 +19,7 @@ st.write("Upload a contract PDF and evaluate compliance automatically.")
 # -----------------------------------
 # Load Gemini API
 # -----------------------------------
-API_KEY = st.secrets["AIzaSyDvxtiL9asne6fZv8ZxuMEweq_C5-jSMuw"]
+API_KEY = st.secrets["GOOGLE_API_KEY"]
 genai.configure(api_key=API_KEY)
 
 # Load Embedder
